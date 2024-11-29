@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6fa55feab3603a54b81352a92170ae7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalObject: {instanceID: 0}
+  - cornerObject: {instanceID: 0}
+  - spinningObject: {instanceID: 0}
+  - bounceObject: {instanceID: 0}
+  - rampRObject: {fileID: 7811980266734818448, guid: 58cf5d0e8e0bc4c40ad1db526add89ee, type: 3}
+  - rampLObject: {fileID: 6265519017406153868, guid: dc5e8cf143352694e85d81d9486c6111, type: 3}
+  - normalInstance: {instanceID: 0}
+  - cornerInstance: {instanceID: 0}
+  - spinningInstance: {instanceID: 0}
+  - bounceInstance: {instanceID: 0}
+  - rampRInstance: {instanceID: 0}
+  - rampLInstance: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
